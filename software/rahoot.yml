@@ -9,4 +9,3 @@ platforms:
   - Docker
 tags:
   - Games
-depends_3rdparty: false
